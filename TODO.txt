@@ -1,2 +1,3 @@
 - Redesign UI
 - Reimplement key navigation with remote control support
+- Bli mer awesome
